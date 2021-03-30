@@ -1,0 +1,15 @@
+{
+  "main.css": "/test-repo-one/static/css/main.9a3d4813.chunk.css",
+  "main.js": "/test-repo-one/static/js/main.add50c71.chunk.js",
+  "main.js.map": "/test-repo-one/static/js/main.add50c71.chunk.js.map",
+  "static/css/1.063b0e9e.chunk.css": "/test-repo-one/static/css/1.063b0e9e.chunk.css",
+  "static/js/1.5c65df15.chunk.js": "/test-repo-one/static/js/1.5c65df15.chunk.js",
+  "static/js/1.5c65df15.chunk.js.map": "/test-repo-one/static/js/1.5c65df15.chunk.js.map",
+  "runtime~main.js": "/test-repo-one/static/js/runtime~main.2309be77.js",
+  "runtime~main.js.map": "/test-repo-one/static/js/runtime~main.2309be77.js.map",
+  "static/css/main.9a3d4813.chunk.css.map": "/test-repo-one/static/css/main.9a3d4813.chunk.css.map",
+  "static/css/1.063b0e9e.chunk.css.map": "/test-repo-one/static/css/1.063b0e9e.chunk.css.map",
+  "index.html": "/test-repo-one/index.html",
+  "precache-manifest.e2bf278c7f89b292df3727ed0f4b4b99.js": "/test-repo-one/precache-manifest.e2bf278c7f89b292df3727ed0f4b4b99.js",
+  "service-worker.js": "/test-repo-one/service-worker.js"
+}
